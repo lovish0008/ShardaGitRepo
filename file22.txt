@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-seg
-change 1
-change 2
-=======
-seg
->>>>>>> parent of 967aa19... last3 mssg
