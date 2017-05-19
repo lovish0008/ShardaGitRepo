@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-Hey Gandu
+Hey lovish
 
 change 1
 
 change 2
-=======
-Hey Gandu
->>>>>>> parent of 22ed498... Change1 in File2
+
